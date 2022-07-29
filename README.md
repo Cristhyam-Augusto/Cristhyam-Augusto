@@ -40,6 +40,7 @@
 <h2 align="center">Você pode me encontrar em <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
+<a href="mailto: cristhyanmoc@gmail.com">
  <img src="https://img.shields.io/badge/-Cristhyam-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristhyanmoc@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/cristhyam-augusto-75677a232/">
