@@ -25,8 +25,8 @@
 </p> 
 <hr>
 
+<h2 align="center">Minhas Stacks <img align = "center" src="https://i.picasion.com/pic92/03cb770d27e27ac4699a1eccd0b0f4aa.gif" width="75" height="75" border="0" /><br /></h2>
 
-<h2 align="center">Minhas Stacks <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
