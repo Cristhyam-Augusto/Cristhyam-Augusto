@@ -12,17 +12,15 @@
 <hr>
 
 <p align = "center">
-  <img height="160em" src = "https://github-readme-stats.vercel.app/api?username=Cristhyam-Augusto&show_icons=true&theme=radical&line_height=27">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhyam-Augusto&layout=compact&langs_count=7&theme=radical">
+  <img height="199em" src = "https://github-readme-stats.vercel.app/api?username=Cristhyam-Augusto&show_icons=true&theme=radical&line_height=27">
+  <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhyam-Augusto&layout=compact&langs_count=7&theme=radical">
 </p>
 
 <p align = "center">
- <img height="310em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhyam-Augusto&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhyam-Augusto&show_icons=true&locale=en&theme=radical&line_height=0" />
+ <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=Cristhyam-Augusto&theme=redical">
 </p> 
 
-<p align = "center">
- <img height="275m" src="https://activity-graph.herokuapp.com/graph?username=Cristhyam-Augusto&theme=redical">
-</p> 
 <hr>
 
 <h2 align="center">Minhas Stacks <img align = "center" src="https://i.picasion.com/pic92/03cb770d27e27ac4699a1eccd0b0f4aa.gif" width="75" height="75" border="0" /><br /></h2>
