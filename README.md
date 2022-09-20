@@ -12,13 +12,13 @@
 <hr>
 
 <p align = "center">
-  <img height="199em" src = "https://github-readme-stats.vercel.app/api?username=Cristhyam-Augusto&show_icons=true&theme=radical&line_height=27">
-  <img height="199em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhyam-Augusto&layout=compact&langs_count=7&theme=radical">
+  <img height="189em" src = "https://github-readme-stats.vercel.app/api?username=Cristhyam-Augusto&show_icons=true&theme=radical&line_height=27">
+  <img height="189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhyam-Augusto&layout=compact&langs_count=7&theme=radical">
 </p>
 
 <p align = "center">
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhyam-Augusto&show_icons=true&locale=en&theme=radical&line_height=0" />
- <img height="180em" src="https://activity-graph.herokuapp.com/graph?username=Cristhyam-Augusto&theme=redical">
+ <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhyam-Augusto&show_icons=true&locale=en&theme=radical&line_height=0" />
+ <img height="170em" src="https://activity-graph.herokuapp.com/graph?username=Cristhyam-Augusto&theme=redical">
 </p> 
 
 <hr>
