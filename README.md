@@ -17,8 +17,7 @@
 </p>
 
 <p align = "center">
- <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhyam-Augusto&show_icons=true&locale=en&theme=radical&line_height=0" />
- <img height="150em" src="https://activity-graph.herokuapp.com/graph?username=Cristhyam-Augusto&theme=redical">
+ <img height="330em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhyam-Augusto&show_icons=true&locale=en&theme=radical&line_height=0" />
 </p> 
 
 <hr>
