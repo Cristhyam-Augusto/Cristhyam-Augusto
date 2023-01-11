@@ -12,12 +12,11 @@
 <hr>
 
 <p align = "center">
-  <img height="170em" src = "https://github-readme-stats.vercel.app/api?username=Cristhyam-Augusto&show_icons=true&theme=radical&line_height=27">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhyam-Augusto&layout=compact&langs_count=7&theme=radical">
+  <img height="255em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristhyam-Augusto&layout=compact&langs_count=7&theme=radical">
 </p>
 
 <p align = "center">
- <img height="330em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhyam-Augusto&show_icons=true&locale=en&theme=radical&line_height=0" />
+ <img height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=Cristhyam-Augusto&show_icons=true&locale=en&theme=radical&line_height=0" />
 </p> 
 
 <hr>
