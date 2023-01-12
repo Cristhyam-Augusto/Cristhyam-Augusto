@@ -1,6 +1,4 @@
-<a href="https://imgur.com/l1swGBN"><img src="https://i.imgur.com/l1swGBN.jpg" title="source: imgur.com" /></a>
-
-
+![Group 12](https://user-images.githubusercontent.com/102738785/211961431-b138f5e4-86bc-493e-a71f-0b648733d144.png)
 
 <p align="center">
 
