@@ -3,7 +3,7 @@
 
 <h4 align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/cristhyam-augusto-75677a232/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Cristhyam-augusto)](https://www.linkedin.com/in/cristhyam-augusto-75677a232/)
 <a href="https://www.tiktok.com/@codebycris"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 <a href="mailto: cristhyanmoc@gmail.com">
