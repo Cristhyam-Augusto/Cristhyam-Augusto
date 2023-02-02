@@ -12,7 +12,7 @@
 
 </h4>
 
-Estou no segundo semestre da graduação em tecnologias para sistemas web na PUC minas, onde sou bolsista pelo PROUNI. 🎓 Sou residente de Minas Gerais, mineiro desde de criança 🏛. Atualmente estudando JS e praticando bastante CSS e HTML 💡. Adoro aprender e criar interações visuais, também tenho um "pezinho" no UI Designer. ✨. I'm deep into Web 🕸️ Development.
+Estou no terceiro semestre da graduação em tecnologias para sistemas web na PUC minas, onde sou bolsista pelo PROUNI. 🎓 Sou residente de Minas Gerais, mineiro desde de criança 🏛. Atualmente estudando Node e C# 💡. Adoro aprender e me desenvolver ✨. I'm deep into Web 🕸️ Development.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -21,10 +21,10 @@ Estou no segundo semestre da graduação em tecnologias para sistemas web na PUC
     </td>
     <td style="border: 0";>
       <p>
-        💻 Tenho estudado Abstração De Dados, Algoritmos, Lógica De Programação em C#, Desenvolvimento Web Front-End, Direção De Arte Para Web, Fundamentos De Engenharia De Software.
+        💻 Tenho estudado Abstração De Dados, Algoritmos, Lógica De Programação em C#, Desenvolvimento Web Front-End, Direção De Arte Para Web, Fundamentos De Engenharia De Software e NodeJS.
       </p>
       <p>
-        Organização e Redes De Computadores, Matemática Básica e Discreta, Planejamento Web, Engenharia de Requisitos de Software, Arquitetura Web Front End e Design de interações.
+        Organização e Redes De Computadores, Matemática Básica e Discreta, Planejamento Web, Engenharia de Requisitos de Software, Arquitetura Web Front End, Design de interações e Banco de dados.
       </p>
       <h3>Essas são algumas das minhas stacks: </h3>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
