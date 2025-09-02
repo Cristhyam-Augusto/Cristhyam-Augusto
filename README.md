@@ -12,30 +12,28 @@
 
 </h4>
 
-Estou no terceiro semestre da graduação em tecnologias para sistemas web na PUC minas, onde sou bolsista pelo PROUNI. 🎓 Sou residente de Minas Gerais, mineiro desde de criança 🏛. Atualmente estudando Node e C# 💡. Adoro aprender e me desenvolver ✨. I'm deep into Web 🕸️ Development.
+Sou formado em sistema para internet pela PUC MG, onde fui bolsista pelo PROUNI. 🎓 Sou residente de Minas Gerais, mineiro desde de criança 🏛. Atualmente trabalho como software developer backend 💡. Adoro aprender e me desenvolver ✨. I'm deep into Web 🕸️ Development.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://imgur.com/P3h9Ctp.png" />
-    </td>
-    <td style="border: 0";>
-      <p>
-        💻 Tenho estudado Abstração De Dados, Algoritmos, Lógica De Programação em C#, Desenvolvimento Web Front-End, Direção De Arte Para Web, Fundamentos De Engenharia De Software e NodeJS.
-      </p>
-      <p>
-        Organização e Redes De Computadores, Matemática Básica e Discreta, Planejamento Web, Engenharia de Requisitos de Software, Arquitetura Web Front End, Design de interações e Banco de dados.
-      </p>
       <h3>Essas são algumas das minhas stacks: </h3>
       <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+      <img src="https://img.shields.io/badge/rabbitmq-FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/redis-FF4438.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/mongoose-20232A.svg?style=for-the-badge&logo=mongoose&logoColor=white"/>
+      <img src="https://img.shields.io/badge/apachekafka-880000.svg?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+      <img src="https://img.shields.io/badge/influxdb-22ADF6.svg?style=for-the-badge&logo=influxdb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/grafana-F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
+      <img src="https://img.shields.io/badge/sentry-362D59.svg?style=for-the-badge&logo=sentry&logoColor=white"/>
+      <img src="https://img.shields.io/badge/moonrepo-6F53F3.svg?style=for-the-badge&logo=moonrepo&logoColor=white"/>
       <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
       <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
       <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"> 
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">  
-      <img src="https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white">
+      <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
     </td>
   </tr>
 </table>
