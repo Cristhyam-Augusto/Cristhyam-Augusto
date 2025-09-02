@@ -12,7 +12,11 @@
 
 </h4>
 
-Sou formado em sistema para internet pela PUC MG, onde fui bolsista pelo PROUNI. 🎓 Sou residente de Minas Gerais, mineiro desde de criança 🏛. Atualmente trabalho como software developer backend 💡. Adoro aprender e me desenvolver ✨. I'm deep into Web 🕸️ Development.
+Sou formado em Sistemas para Internet pela PUC Minas, onde fui bolsista pelo PROUNI. 🎓
+Sou natural de Minas Gerais, mineiro desde criança 🏛.
+Atualmente, trabalho como desenvolvedor backend 💡.
+Adoro aprender e me desenvolver ✨.
+I'm deeply into Web 🕸️ Development.
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
